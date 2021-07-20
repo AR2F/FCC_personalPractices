@@ -1,2 +1,3 @@
-# FCC_personalPractices
-My work to learn in free code camp
+# Hello web surfer!
+These are my practices to learn programming with a focus on web development.
+
